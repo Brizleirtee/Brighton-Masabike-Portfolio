@@ -1,4 +1,4 @@
-# Brighton Masabike
+# Data Scientist
 
 ### Education 
 Chinhoyi unversity Of technology
