@@ -1,10 +1,10 @@
 # Data Scientist
 
 ### Education 
-_Chinhoyi unversity Of technology~
-_Freelancing~
+*Chinhoyi unversity Of technology~
+*Freelancing~
 
 ### Working experience
 ##Software engineer @Evast Marketing Solution:
-_Front end Mobile app Development~
-_Machine learning models~
+*Front end Mobile app Development~
+*Machine learning models~
