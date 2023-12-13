@@ -1,8 +1,8 @@
 # DATA SCIENTIST & PYTHON DEV
 
 ## EDUCATION
--Chinhoyi unversity Of technology.
--Freelancing.
+1.Chinhoyi unversity Of technology.
+2.Freelancing.
 
 ---
 ## WORKING EXPERIENCE
