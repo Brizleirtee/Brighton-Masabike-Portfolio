@@ -31,7 +31,7 @@
    - I must be free
    - Xmas
    - The day of vigelance
-   - ![House price prediction summary!](../house_price/predshouse.png "reg")
+ ![House price prediction summary!](../house_price/predshouse.png "reg")
      
 
 
