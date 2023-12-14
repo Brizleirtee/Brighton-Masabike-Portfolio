@@ -25,13 +25,12 @@
 ## PROJECTS
 
 1. [HOUSE PRICE PREDICTION MACHINE LEARNING MODEL](https://github.com/Brizleirtee/Regression_Machine_Learning)
-   - Puriti
-   - Matyora
-   - Otherone
-   - I must be free
-   - Xmas
-   - The day of vigelance
-   - ![House price prediction summary!](../house_price/predshouse.png "reg")
+   - Created a tool that estimates the house prices in a certain area
+   - estimated using features like number of rooms ,location, type etc
+   - Building the estimation visualization using matplotlib and seaborn
+   - can be used in many cities of the world with same features for nearly perfect approximation
+   - Random Forest Regressor,matplotlib,seaborn,Data Cleaning and feature engineering to reach the best model
+   - ![ Diagram showing the prediction](../house_price/predhouse.png "House price estimator")
      
 
 
