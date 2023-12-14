@@ -30,7 +30,8 @@
    - Building the estimation visualization using matplotlib and seaborn
    - can be used in many cities of the world with same features for nearly perfect approximation
    - Random Forest Regressor,matplotlib,seaborn,Data Cleaning and feature engineering to reach the best model
-   - ![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+   - ![ Diagram showing the prediction](https://github.com/Brizleirtee/Brighton-Masabike-Portfolio/blob/main/house_price/predhouse.png, "House price estimator")
+
      
 
 
