@@ -31,7 +31,9 @@
    - can be used in many cities of the world with same features for nearly perfect approximation
    - Random Forest Regressor,matplotlib,seaborn,Data Cleaning and feature engineering to reach the best model
    - ![ Diagram showing the prediction](https://github.com/Brizleirtee/Brighton-Masabike-Portfolio/blob/main/house_price/predhouse.png, "House price estimator")
-
-     
+     2[Cleanup Python Scripting app]
+     - created a script to organize the folders and files in a computer.
+     - If a files is downloaded, the file is moved appropriate folder based on file extension.
+     - 
 
 
